@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+.container{
+    width: 1000px;
+}
+
+.block{
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.activities{
+    border: 1px solid black;
+}
+
+.gold{
+    border: 1px solid black;
+}
+
+.green{
+    color: green;
+}
+
+.red{
+    color: red;
+}

@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+.left{
+    text-align: right;
+}
+
+.title{
+	display: inline-block;
+	vertical-align: top;
+}

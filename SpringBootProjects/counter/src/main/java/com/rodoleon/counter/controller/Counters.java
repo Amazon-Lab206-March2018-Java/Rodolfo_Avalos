@@ -16,7 +16,7 @@ public class Counters {
 			session.setAttribute("counter", count+1);
 			return "index.jsp";
 		} else {
-			session.setAttribute("counter", 1);
+			session.setAttribute("counter", 0);
 			return "index.jsp";
 		}
 	}
